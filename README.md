@@ -6,10 +6,11 @@
 >
 > - 决策记录：[DECISION.md](DECISION.md)
 > - 混合方案与使用规则：[directions/AE-hybrid-A20-E80/](directions/AE-hybrid-A20-E80/)
-> - 选定 token 草案：[tokens/proposed-tokens.md](tokens/proposed-tokens.md#选定-token-草案)
+> - **v1 栅格定稿**：[final/](final/)（lockup / mark / mascots / hero mock）
+> - Token：[`tokens/tokens.css`](tokens/tokens.css) · [`tokens/tokens.json`](tokens/tokens.json)（草案见 [proposed-tokens.md](tokens/proposed-tokens.md#选定-token-草案)）
 > - 讨论：[Issue #1](https://github.com/Beastry/brand/issues/1)
 >
-> 精确 SVG logo 仍在打磨中，形象板为规划参考。
+> SVG logo 仍在打磨；`final/` 为 v1 栅格资产，可供官网使用。
 
 ![A20 E80 混合形象板](directions/AE-hybrid-A20-E80/board.jpg)
 

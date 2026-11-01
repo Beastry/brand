@@ -1,0 +1,22 @@
+/**
+ * Beastry design tokens — A20 / E80 (selected 2026-11-01)
+ * Coral for CTA / small marks only; cream surfaces; pastel product washes.
+ */
+:root {
+  /* Surfaces & text (A Soft Beast) */
+  --beastry-cream: #fff6ee;
+  --beastry-charcoal: #2a2421;
+  --beastry-coral: #ff6b4a;
+
+  /* Product pastels (E Animal Family) */
+  --beastry-peach: #ffd6c7;
+  --beastry-sky: #d6e9f6;
+  --beastry-honey: #ffe8b8;
+  --beastry-mint: #d6ece7;
+  --beastry-lavender: #e7e2f6;
+
+  /* Semantic aliases for sites */
+  --beastry-bg: var(--beastry-cream);
+  --beastry-ink: var(--beastry-charcoal);
+  --beastry-accent: var(--beastry-coral);
+}

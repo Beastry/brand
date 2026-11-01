@@ -23,8 +23,8 @@
 
 ## 当前状态
 
-- 方向已选定，但**精确的 SVG logo 仍在探索中**
-- 仓库中的形象板（board.jpg）均为规划参考，不是最终交付物
+- 方向已选定；**v1 栅格资产**已在 [`final/`](final/)，**精确 SVG logo 仍在探索中**
+- 探索期形象板（board.jpg）仍为规划参考；`final/` 为官网可用的第一版栅格
 - 混合规则见 [directions/AE-hybrid-A20-E80/NOTES.md](directions/AE-hybrid-A20-E80/NOTES.md)
 - 选定 token 草案见 [tokens/proposed-tokens.md](tokens/proposed-tokens.md#选定-token-草案)
 
@@ -34,6 +34,16 @@
 2. 与各产品确认动物形象与名称对应关系
 3. 打磨并定稿 design tokens（色值、字体、圆角、阴影）
 4. 产出 app icon 规范与官网（beastry.app）落地样式
+
+
+## 定稿推进（2026-11-01）
+
+Neil 确认按 A20/E80 推进视觉落地。v1 **栅格**资产已放入 [`final/`](final/)：
+
+- `logo-lockup.jpg` · `mark.jpg` · `mascots-row.jpg` · `site-hero-mock.jpg`
+- 机器可读 token：[`tokens/tokens.css`](tokens/tokens.css) · [`tokens/tokens.json`](tokens/tokens.json)
+
+说明见 [`final/README.md`](final/README.md)。SVG 字标与各产品动物矢量仍待后续。
 
 ---
 
