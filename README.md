@@ -1,10 +1,29 @@
 # Beastry 品牌形象探索
 
-> ⚠️ **这是探索稿，不是最终品牌。** 五个方向用于讨论和挑选，任何一套都还可以混搭、调整或推翻。
+> ## ✅ 已选定：A 20% + E 80%
+>
+> 2026-11-01 Neil（@neardws）选定 **动物家族为主（E 80%）+ 柔和野兽点缀（A 20%）**。
+>
+> - 决策记录：[DECISION.md](DECISION.md)
+> - 混合方案与使用规则：[directions/AE-hybrid-A20-E80/](directions/AE-hybrid-A20-E80/)
+> - 选定 token 草案：[tokens/proposed-tokens.md](tokens/proposed-tokens.md#选定-token-草案)
+> - 讨论：[Issue #1](https://github.com/Beastry/brand/issues/1)
+>
+> 精确 SVG logo 仍在打磨中，形象板为规划参考。
+
+![A20 E80 混合形象板](directions/AE-hybrid-A20-E80/board.jpg)
+
+---
+
+## 探索存档（A–E）
+
+> 以下为选定前的五个探索方向，保留作参考。
+
+> 这些是探索稿，不是最终品牌。
 
 Beastry 官网：<https://beastry.app>
 
-## 五个方向一览
+### 五个方向一览
 
 | ID | 方向 | 气质 | 主色 | 形象板 |
 |----|------|------|------|--------|
@@ -37,7 +56,7 @@ Beastry 官网：<https://beastry.app>
 - [Stow](https://github.com/skyswordw/stow)（暂在 `skyswordw/stow`，尚未迁入组织）
 - 官网：[beastry.app](https://github.com/Beastry/beastry.app)
 
-## 怎么给意见
+### 怎么给意见（已选定，保留存档）
 
 请 @neardws 和 @skyswordw 看一下：
 
@@ -49,4 +68,4 @@ Beastry 官网：<https://beastry.app>
 
 ---
 
-*English: Exploration boards for the Beastry brand — five directions (A–E). Not final. Pick one or propose a mix via Issues/PRs.*
+*English: Selected 2026-11-01 — 80% E Animal Family + 20% A Soft Beast (see DECISION.md). The five A–E exploration boards are kept below as an archive.*

@@ -1,5 +1,26 @@
 # 配色方案对比 / Proposed palette tokens
 
+## 选定 token 草案
+
+> **草案，待打磨（draft, pending polish）。** 对应 [DECISION.md](../DECISION.md) 的 A20 / E80 混合方案；色值取自 [混合形象板](../directions/AE-hybrid-A20-E80/board.jpg)。
+
+| Token | 色值 | 来源 | 用途 |
+|-------|------|------|------|
+| `color.system.peach` | `#FFD6C7` | E | 产品主题色 / 卡片背景 |
+| `color.system.sky` | `#D6E9F6` | E | 产品主题色 / 卡片背景 |
+| `color.system.honey` | `#FFE8B8` | E | 产品主题色 / 卡片背景 |
+| `color.system.mint` | `#D6ECE7` | E | 产品主题色 / 卡片背景 |
+| `color.system.lavender` | `#E7E2F6` | E | 产品主题色 / 卡片背景 |
+| `color.accent.coral` | `#FF6B4A` | A | 主 CTA 按钮、小型标记点缀（每屏少量） |
+| `color.text.charcoal` | `#2A2421` | A | 正文、标题、字标 |
+| `color.surface.cream` | `#FFF6EE` | A | 页面底色 / 浅色表面（off-white） |
+
+规则：粉彩只做面与背景，不做文字；珊瑚只做强调，不做大面积背景；文字统一 Charcoal。
+
+---
+
+## 探索期五套配色对比（存档）
+
 > 探索稿，未定稿。色值来自各方向形象板；E 方向的具体色值待选定后再定。
 
 | 方向 | 背景 / 底色 | 主文字 / 深色 | 主强调色 | 辅助色 |
