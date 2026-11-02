@@ -48,3 +48,13 @@ Neil 确认按 A20/E80 推进视觉落地。v1 **栅格**资产已放入 [`final
 ---
 
 *English: Decision on 2026-11-01 by Neil (neardws): mix 80% E Animal Family (primary) + 20% A Soft Beast (coral accent). Exact SVG logos still in exploration; boards are planning references. Discussion: issue #1.*
+
+## Logo v2 定稿（2026-11-03）
+
+Neil 选定 **字标 + 书**（A20/E80 风格）：
+
+- Lockup：`final/logo-lockup.jpg` — `beastry` 字标 + 圆形书本 mark
+- Mark：`final/mark.jpg` — 打开的书 + 三只寓言兽
+- 决策细节与未采用路径：[`final/LOGO.md`](final/LOGO.md)
+- SVG 仍待后续；官网 beastry.app 已切换至上述栅格
+
