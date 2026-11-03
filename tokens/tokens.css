@@ -1,8 +1,7 @@
 /**
- * Beastry design tokens — A20 / E80 (v3 · 2026-11-03)
- * Coral for CTA / small marks only; cream surfaces; pastel product washes.
- * Logo animals (粉兔 / 蓝猫 / 黄熊) ≠ product mascots.
- * Production logo format: JPG (SVG deferred / not production).
+ * Beastry design tokens — A20 / E80 (2026-11-03)
+ * Mother brand. Coral for CTA / small marks only; cream surfaces; pastel washes.
+ * Logo animals: 粉兔 / 蓝猫 / 黄熊. Production logo format: JPG.
  */
 :root {
   /* Surfaces & text (A Soft Beast) */
@@ -10,7 +9,7 @@
   --beastry-charcoal: #2a2421;
   --beastry-coral: #ff6b4a;
 
-  /* Product pastels (E Animal Family) */
+  /* System pastels (E Animal Family) */
   --beastry-peach: #ffd6c7;
   --beastry-sky: #d6e9f6;
   --beastry-honey: #ffe8b8;

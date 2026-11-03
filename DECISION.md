@@ -11,48 +11,48 @@
 
 ## 主体（80%）：E · Animal Family 动物家族
 
-- 多产品吉祥物体系：母品牌 Beastry + 每个产品一只抽象小动物
 - 圆润、友好、可爱，粗圆角无衬线字标
-- 柔和粉彩（pastel）作为系统色，每个产品分配一个主题色
+- 柔和粉彩（pastel）作为系统色
+- 母品牌以「共读的寓言书」为形象核心
 
 ## 点缀（20%）：A · Soft Beast 柔和野兽
 
-- 珊瑚色 Coral `#FF6B4A`：只用于**主 CTA 按钮**和**小型标记点缀**（如字标里的小心形、旋涡标记）
-- 奶油色 Cream `#FFF6EE`：页面底色，带来温暖感
-- 炭黑 Charcoal `#2A2421`：文字与字标
+- 珊瑚色 Coral `#FF6B4A`：只用于**主 CTA 按钮**和**小型标记点缀**（如字标里的小心形）
+- 奶油色 Cream `#FFF6EE`：页面底色
+- 炭黑 Charcoal `#2A2421`：文字与结构
 
-## 当前状态（v3 · 2026-11-03）
+## 当前状态（2026-11-03）
 
-- 方向已选定；**v3 生产定稿为可爱 JPG**，见 [`final/`](final/)
-- **SVG 暂不生产**（手修路径以后再说；自动描摹仅归档于 `final/svg/traced/`）
+- 方向已选定；**生产定稿为可爱 JPG**，见 [`final/`](final/)
+- **完整设计板**已写入 [`brand-book/`](brand-book/)（01–08 + 导出）
 - 使用指南：[`guidelines/`](guidelines/)
-- 机器可读 token：[`tokens/tokens.css`](tokens/tokens.css) · [`tokens/tokens.json`](tokens/tokens.json)（日期 2026-11-03；`logo.format: jpg`）
+- 机器可读 token：[`tokens/tokens.css`](tokens/tokens.css) · [`tokens/tokens.json`](tokens/tokens.json)
 - 混合规则：[directions/AE-hybrid-A20-E80/NOTES.md](directions/AE-hybrid-A20-E80/NOTES.md)
 
-## Logo v2 → v3（JPG 定稿锁定 · 2026-11-03）
+## Logo 定稿（JPG · 2026-11-03）
 
-Neil 选定 **字标 + 书**（A20/E80），并确认 **生产直接用可爱 JPG**（清晰度够用；矢量搁置）：
+Neil 选定 **字标 + 书**（A20/E80），并确认 **生产直接用可爱 JPG**：
 
 | 项 | 内容 |
 |----|------|
-| **生产格式** | **JPG**（`logo.format: jpg`） |
-| Lockup | `final/logo-lockup.jpg` ← `cute-lockup-rcb.jpg` |
-| Mark | `final/mark.jpg` ← `cute-mark-rcb.jpg` |
-| 动物 L→R | **粉兔 / 蓝猫 / 黄熊**（母品牌寓言兽，**≠** 产品吉祥物；蓝猫内耳珊瑚色） |
-| SVG | **非生产** · 占位说明见 `final/svg/`；`traced/` 仅归档；几何重绘已否决 |
+| **生产格式** | **JPG** |
+| Lockup | `final/logo-lockup.jpg` |
+| Mark | `final/mark.jpg` |
+| 动物 L→R | **粉兔 / 蓝猫 / 黄熊**（母品牌寓言兽；蓝猫内耳珊瑚色） |
+| App 图标 | `brand-book/exports/app-icon-1024.png`（无外圈，放大插画） |
+| OG / 横幅 | `brand-book/exports/og-1200x630.png` · `banner-1500x320.png` |
 
-细节与否决路径：[`final/LOGO.md`](final/LOGO.md) · [`final/svg/README.md`](final/svg/README.md)
+细节：[`final/LOGO.md`](final/LOGO.md) · [`brand-book/NOTES.md`](brand-book/NOTES.md)
 
-## 产品吉祥物（与 logo 三兽分离）
+## 范围
 
-Octoshot 章鱼 · MijiaBar 猫 · mbread 面包兔 · AgentKey 甲虫 · Splatty splat · LetterBee 蜂 — 见 [guidelines/04-mascots.md](guidelines/04-mascots.md)。
+本仓库只维护**母品牌**。各产品吉祥物由各产品自行定义与维护，不写入本规范。
 
 ## 下一步
 
-1. 各产品确认并矢量自己的吉祥物（与母品牌三兽分开）
-2. 母品牌手修 SVG **可选、以后再说**；官网与对外交付继续用 JPG
-3. 导出专用小尺寸 favicon / app icon 如有需要
+1. 官网与对外交付继续使用 JPG 定稿与 `brand-book/exports/`
+2. 各产品自行维护自己的视觉与吉祥物
 
 ---
 
-*English: A20/E80 decided 2026-11-01. Brand system v3 (2026-11-03): cute wordmark+book; animals pink rabbit / blue cat / yellow bear; **production masters are JPG**; SVG deferred / not production.*
+*English: A20/E80 decided 2026-11-01. Mother brand locked 2026-11-03: cute wordmark+book JPG masters; pink rabbit / blue cat / yellow bear; brand-book boards + app icon / OG / banner exports.*

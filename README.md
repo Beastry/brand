@@ -1,15 +1,16 @@
 # Beastry 品牌
 
-> ## ✅ 品牌系统 v3（2026-11-03）
+> ## 母品牌系统（2026-11-03）
 >
 > 方向：**A 20% + E 80%**（柔和野兽点缀 + 动物家族为主）。  
 > Logo：**字标 + 书**；mark 动物左→右 **粉兔 / 蓝猫 / 黄熊**（蓝猫内耳珊瑚色）。  
-> **生产资产：可爱 JPG 定稿。** SVG 暂不生产（以后再说）；自动描摹仅归档。
+> **生产资产：可爱 JPG 定稿**（`final/mark.jpg` · `final/logo-lockup.jpg`）。
 >
 > - 决策：[DECISION.md](DECISION.md)
-> - 定稿资产：[final/](final/)（**`mark.jpg` / `logo-lockup.jpg` = 生产**；[`final/svg/`](final/svg/) 非生产说明；[`traced/`](final/svg/traced/) 归档）
+> - 设计板：[brand-book/](brand-book/)（01–08 + [NOTES.md](brand-book/NOTES.md)）
+> - 定稿资产：[final/](final/)
 > - 使用指南：[guidelines/](guidelines/)
-> - Token：[`tokens/tokens.css`](tokens/tokens.css) · [`tokens/tokens.json`](tokens/tokens.json)（`logo.format: jpg`）
+> - Token：[`tokens/tokens.css`](tokens/tokens.css) · [`tokens/tokens.json`](tokens/tokens.json)
 > - 混合规则：[directions/AE-hybrid-A20-E80/](directions/AE-hybrid-A20-E80/)
 > - 讨论：[Issue #1](https://github.com/Beastry/brand/issues/1)
 
@@ -21,11 +22,13 @@
 
 | 资产 | 路径 | 状态 |
 |------|------|------|
-| **Mark（生产）** | [`final/mark.jpg`](final/mark.jpg) | ✅ JPG 定稿 |
-| **Lockup（生产）** | [`final/logo-lockup.jpg`](final/logo-lockup.jpg) | ✅ JPG 定稿 |
-| SVG | [`final/svg/`](final/svg/) | ⏸ 非生产 · TBD |
+| **Mark** | [`final/mark.jpg`](final/mark.jpg) | 定稿 |
+| **Lockup** | [`final/logo-lockup.jpg`](final/logo-lockup.jpg) | 定稿 |
+| **App 图标** | [`brand-book/exports/app-icon-1024.png`](brand-book/exports/app-icon-1024.png) | 定稿（无外圈） |
+| **OG** | [`brand-book/exports/og-1200x630.png`](brand-book/exports/og-1200x630.png) | 定稿 |
+| **横幅** | [`brand-book/exports/banner-1500x320.png`](brand-book/exports/banner-1500x320.png) | 定稿 |
 
-母品牌三兽 **≠** 产品吉祥物（章鱼 / 猫 / 面包兔 / 甲虫 / splat / 蜂）。详见 [guidelines/04-mascots.md](guidelines/04-mascots.md)。
+本仓库只定义**母品牌**。各产品吉祥物由各产品自行维护，不在本规范展开。
 
 ---
 
@@ -39,7 +42,7 @@
 | B | Midnight Tech 午夜技术 | 深色、开发者优先 | Navy `#0B1220` · Cyan `#2EE6D6` · Violet `#7B6CFF` | [查看](directions/B-midnight-tech/) |
 | C | Paper & Ink 纸墨 | 编辑 / 活字印刷 / 档案感 | Paper `#F4ECDF` · Ink `#1C1A17` · Stamp `#C23B22` · Sage `#7A8F7A` | [查看](directions/C-paper-ink/) |
 | D | Native Crisp 原生清爽 | macOS 原生、克制 | Gray `#F5F5F7` · Indigo `#5B6CFF` · Near-black `#1D1D1F` | [查看](directions/D-native-crisp/) |
-| E | Animal Family 动物家族 | 多产品吉祥物体系 | Peach / Sky / Honey / Mint / Lavender + Charcoal | [查看](directions/E-animal-family/) |
+| E | Animal Family 动物家族 | 圆润友好的家族主调 | Peach / Sky / Honey / Mint / Lavender + Charcoal | [查看](directions/E-animal-family/) |
 
 | A 柔和野兽 | B 午夜技术 | C 纸墨 |
 |---|---|---|
@@ -66,4 +69,4 @@
 
 ---
 
-*English: Brand system v3 (2026-11-03) — A20/E80; wordmark + book; animals pink rabbit / blue cat / yellow bear; **production = cute JPG masters**; SVG deferred / not production. See guidelines/.*
+*English: Mother-brand system (2026-11-03) — A20/E80; wordmark + book; animals pink rabbit / blue cat / yellow bear; production = cute JPG masters; see brand-book/ and guidelines/.*
