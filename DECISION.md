@@ -23,21 +23,23 @@
 
 ## 当前状态（v3 · 2026-11-03）
 
-- 方向已选定；**v3 栅格定稿**在 [`final/`](final/)；SVG 手修干净路径待交付（自动描摹见 `final/svg/traced/` 归档）
+- 方向已选定；**v3 生产定稿为可爱 JPG**，见 [`final/`](final/)
+- **SVG 暂不生产**（手修路径以后再说；自动描摹仅归档于 `final/svg/traced/`）
 - 使用指南：[`guidelines/`](guidelines/)
-- 机器可读 token：[`tokens/tokens.css`](tokens/tokens.css) · [`tokens/tokens.json`](tokens/tokens.json)（日期 2026-11-03）
+- 机器可读 token：[`tokens/tokens.css`](tokens/tokens.css) · [`tokens/tokens.json`](tokens/tokens.json)（日期 2026-11-03；`logo.format: jpg`）
 - 混合规则：[directions/AE-hybrid-A20-E80/NOTES.md](directions/AE-hybrid-A20-E80/NOTES.md)
 
-## Logo v2 → v3
+## Logo v2 → v3（JPG 定稿锁定 · 2026-11-03）
 
-Neil 选定 **字标 + 书**（A20/E80）：
+Neil 选定 **字标 + 书**（A20/E80），并确认 **生产直接用可爱 JPG**（清晰度够用；矢量搁置）：
 
 | 项 | 内容 |
 |----|------|
-| Lockup | `final/logo-lockup.jpg`（SVG 手修待替换 `final/svg/lockup.svg` 占位） |
-| Mark | `final/mark.jpg`（SVG 手修待替换 `final/svg/mark.svg` 占位） |
-| 动物 L→R | **粉兔 / 蓝猫 / 黄熊**（母品牌寓言兽，**≠** 产品吉祥物） |
-| 矢量原则 | 手修干净路径、对齐可爱定稿；自动描摹放大发糊仅归档；几何重绘已否决 |
+| **生产格式** | **JPG**（`logo.format: jpg`） |
+| Lockup | `final/logo-lockup.jpg` ← `cute-lockup-rcb.jpg` |
+| Mark | `final/mark.jpg` ← `cute-mark-rcb.jpg` |
+| 动物 L→R | **粉兔 / 蓝猫 / 黄熊**（母品牌寓言兽，**≠** 产品吉祥物；蓝猫内耳珊瑚色） |
+| SVG | **非生产** · 占位说明见 `final/svg/`；`traced/` 仅归档；几何重绘已否决 |
 
 细节与否决路径：[`final/LOGO.md`](final/LOGO.md) · [`final/svg/README.md`](final/svg/README.md)
 
@@ -48,9 +50,9 @@ Octoshot 章鱼 · MijiaBar 猫 · mbread 面包兔 · AgentKey 甲虫 · Splatt
 ## 下一步
 
 1. 各产品确认并矢量自己的吉祥物（与母品牌三兽分开）
-2. 手修 SVG 落地后官网改用矢量 mark（体积与清晰度平衡）；此前继续 JPG
+2. 母品牌手修 SVG **可选、以后再说**；官网与对外交付继续用 JPG
 3. 导出专用小尺寸 favicon / app icon 如有需要
 
 ---
 
-*English: A20/E80 decided 2026-11-01. Brand system v3 (2026-11-03): cute wordmark+book; animals pink rabbit / blue cat / yellow bear; rasters + guidelines shipped; hand-refined SVG pending.*
+*English: A20/E80 decided 2026-11-01. Brand system v3 (2026-11-03): cute wordmark+book; animals pink rabbit / blue cat / yellow bear; **production masters are JPG**; SVG deferred / not production.*

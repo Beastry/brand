@@ -2,13 +2,14 @@
 
 > 日期：2026-11-03（Asia/Shanghai）  
 > 决策：A 20% Soft Beast + E 80% Animal Family — [DECISION.md](../DECISION.md)  
-> 资产：[`../final/`](../final/) · Token：[`../tokens/`](../tokens/)
+> 资产：[`../final/`](../final/) · Token：[`../tokens/`](../tokens/)  
+> **生产 logo：可爱 JPG**（SVG 非生产 · TBD）
 
 ## 目录
 
 | 章节 | 内容 |
 |------|------|
-| [01-logo.md](01-logo.md) | Logo：lockup / mark、SVG、间距与禁例 |
+| [01-logo.md](01-logo.md) | Logo：JPG 定稿、间距与禁例（SVG TBD） |
 | [02-color.md](02-color.md) | 色板与使用规则（对齐 tokens） |
 | [03-typography.md](03-typography.md) | 字体与字阶 |
 | [04-mascots.md](04-mascots.md) | 母品牌寓言兽 vs 产品吉祥物 |
@@ -21,7 +22,7 @@
 
 ## 快速取用
 
-- Lockup 栅格：`final/logo-lockup.jpg`
-- Mark 栅格：`final/mark.jpg`
-- 矢量：手修待交付（`final/svg/`）；自动描摹归档在 `final/svg/traced/`
-- CSS variables：`tokens/tokens.css`
+- **Mark（生产）：** `final/mark.jpg`
+- **Lockup（生产）：** `final/logo-lockup.jpg`
+- SVG：非生产（`final/svg/` 说明；`traced/` 归档）
+- CSS variables：`tokens/tokens.css`（`logo.format: jpg` 见 `tokens.json`）

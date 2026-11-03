@@ -2,14 +2,14 @@
 
 ## 官网 beastry.app
 
-- Header：圆形 `mark`（栅格或 SVG）
-- Hero / 关于品牌：可用 `logo-lockup`
+- Header：圆形 `mark.jpg`
+- Hero / 关于品牌：可用 `logo-lockup.jpg`
 - 底色 Cream；主按钮 Coral；产品卡片用粉彩面
-- Favicon：可用 `mark.jpg`；有需要时可再导出方形 SVG favicon
+- Favicon：`mark.jpg`（有需要时可再导出专用小尺寸）
 
 ## GitHub / 文档
 
-- 组织与仓库 README 顶部可用 lockup 或 mark
+- 组织与仓库 README 顶部可用 lockup 或 mark（JPG）
 - 产品 README 以**产品吉祥物**为主视觉，母品牌 mark 放次要位置（页脚或「Part of Beastry」）
 
 ## 社交头像 / 开放图谱
@@ -19,11 +19,11 @@
 
 ## 幻灯 / 印刷
 
-- 手修 SVG 落地前优先 JPG；落地后用 `final/svg/mark.svg` / `lockup.svg`（勿用 traced）。大篇幅插画勿把 logo 拉成海报主插画
+- **用 JPG 定稿**（`final/mark.jpg` / `logo-lockup.jpg`）。勿用 `traced/`。大篇幅插画勿把 logo 拉成海报主插画。手修 SVG 若日后交付再评估替换。
 
 ## 检查清单
 
-- [ ] 用的是 v3 可爱定稿 JPG（或已交付的手修 SVG），不是几何重绘稿 / 不是 traced 糊边稿
+- [ ] 用的是 v3 可爱定稿 **JPG**，不是几何重绘稿 / 不是 traced 糊边稿 / 不是空 SVG 占位
 - [ ] 三兽顺序仍是粉兔 → 蓝猫 → 黄熊
 - [ ] 未把产品兽塞进母品牌圆章
 - [ ] 珊瑚未铺满背景

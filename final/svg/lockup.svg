@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  TODO: Hand-refined Beastry lockup SVG (clean paths) — pending.
-  Do NOT use auto-traced paths for production; they look blurry when zoomed.
-  Until this file is replaced: use ../logo-lockup.jpg
-  Archive of VTracer output: ./traced/lockup.svg (+ lockup.min.svg)
+  Beastry lockup — SVG NOT production (2026-11-03).
+  Production master: ../logo-lockup.jpg (cute JPG).
+  Hand-refined paths TBD later; do not use traced/ for production.
 -->
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Beastry lockup — hand-refined SVG pending">
-  <title>Beastry lockup — hand-refined SVG pending</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Beastry lockup — JPG is production; SVG TBD">
+  <title>Beastry lockup — production is JPG (SVG TBD)</title>
 </svg>

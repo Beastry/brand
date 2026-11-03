@@ -3,31 +3,32 @@
 ## 组成
 
 1. **Mark（圆形）**  
-   打开的书 + 三只寓言兽探头：左→右 **粉兔 / 蓝猫 / 黄熊**。圆框炭线，书脊 / 封面为珊瑚暖红。
+   打开的书 + 三只寓言兽探头：左→右 **粉兔 / 蓝猫 / 黄熊**（蓝猫内耳珊瑚色）。圆框炭线，书脊 / 封面为珊瑚暖红。
 2. **Wordmark**  
    小写粗圆角 `beastry`；字母 **a** 字怀为珊瑚色心形。
 3. **Lockup**  
    Mark 在左，字标在右，水平对齐；高度大致齐平。
 
-## 官方文件
+## 官方文件（生产 = JPG）
 
-| 用途 | 文件 |
-|------|------|
-| 栅格 lockup | [`../final/logo-lockup.jpg`](../final/logo-lockup.jpg) |
-| 栅格 mark | [`../final/mark.jpg`](../final/mark.jpg) |
-| 矢量（手修待交付） | [`../final/svg/`](../final/svg/) — 生产前用 JPG；`traced/` 仅归档 |
+| 用途 | 文件 | 状态 |
+|------|------|------|
+| **生产** mark | [`../final/mark.jpg`](../final/mark.jpg) | ✅ 定稿 |
+| **生产** lockup | [`../final/logo-lockup.jpg`](../final/logo-lockup.jpg) | ✅ 定稿 |
+| SVG | [`../final/svg/`](../final/svg/) | ⏸ 非生产 · TBD；`traced/` 仅归档 |
 
-正式 SVG 须为 **手修干净路径**，气质对齐可爱栅格。**禁止**几何简化版；**禁止**直接用自动描摹生产。
+Neil（2026-11-03）：可爱 JPG 已够清晰，**正式写入 JPG 定稿**；矢量以后再说。  
+若日后补手修 SVG：须对齐可爱 JPG；**禁止**几何简化版；**禁止**用自动描摹生产。
 
 ## 间距与最小尺寸（实践建议）
 
 - 四周净空：不少于 mark 直径的 **1/8**
-- Mark 单独作 favicon / app icon：建议显示边长 ≥ **32px**（更小优先用栅格或后续专门小尺寸稿）
+- Mark 单独作 favicon / app icon：建议显示边长 ≥ **32px**（更小优先用专门小尺寸稿）
 - Lockup：字标高度建议 ≥ **24px**；极窄栏位改用单独 mark + 纯文字「Beastry」
 
 ## 可以
 
-- 奶油底 / 白底上使用全彩 lockup 或 mark
+- 奶油底 / 白底上使用全彩 lockup 或 mark（JPG）
 - Header 左侧用 mark；Hero / 宣传用 lockup
 - 深色底上若对比不足，优先加浅色衬底圆，而不是随意改色填色
 
@@ -38,3 +39,4 @@
 - ❌ 拉伸、斜切、加投影立体、换成尖锐几何描边
 - ❌ 把珊瑚心改成其他符号，或取消心形
 - ❌ 用已否决的几何重绘 SVG，或用 `final/svg/traced/` 自动描摹当正式文件
+- ❌ 把空占位 / TBD 的 `final/svg/*.svg` 当生产资源

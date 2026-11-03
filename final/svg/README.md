@@ -2,16 +2,18 @@
 
 > 日期：2026-11-03（Asia/Shanghai）
 
-## 状态
+## 状态：**非生产**
+
+Neil（2026-11-03）确认：**生产 master 是可爱 JPG**，矢量以后再说。
 
 | 路径 | 状态 |
 |------|------|
-| `mark.svg` / `lockup.svg` | **TODO · 手修干净路径**（本会话内由上级交付；当前为占位） |
+| `mark.svg` / `lockup.svg` | 占位说明文件 · **勿作生产** · 手修路径 TBD |
 | [`traced/`](traced/) | 归档：VTracer 自动描摹（放大边缘发糊，**勿作生产**） |
 
-**生产请先用栅格：** [`../mark.jpg`](../mark.jpg) · [`../logo-lockup.jpg`](../logo-lockup.jpg)
+**生产请用栅格：** [`../mark.jpg`](../mark.jpg) · [`../logo-lockup.jpg`](../logo-lockup.jpg)
 
-Neil 反馈：自动描摹放大后边缘糊，需要手修 clean paths；几何简化重画亦已否决——手修须对齐可爱定稿气质（粉兔 / 蓝猫 / 黄熊）。
+若日后补手修 SVG：须对齐可爱 JPG 气质（粉兔 / 蓝猫 / 黄熊；蓝猫内耳珊瑚色）；**禁止**几何简化重画；**禁止**直接用 `traced/`。
 
 ## 动物（左→右）
 
@@ -19,4 +21,4 @@ Neil 反馈：自动描摹放大后边缘糊，需要手修 clean paths；几何
 
 ---
 
-*English: Official hand-refined SVGs pending. Auto-traced VTracer output archived under traced/ (blurry when zoomed — not for production). Use JPG rasters until hand paths land.*
+*English: SVG is **not production**. JPG rasters are the locked masters. Auto-traced VTracer output archived under traced/. Hand-refined SVG optional later.*
