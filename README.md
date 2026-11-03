@@ -4,10 +4,10 @@
 >
 > 方向：**A 20% + E 80%**（柔和野兽点缀 + 动物家族为主）。  
 > Logo：**字标 + 书**；mark 动物左→右 **粉兔 / 蓝猫 / 黄熊**。  
-> 矢量：对可爱定稿栅格的 **一比一 VTracer 描摹**（几何重绘已否决）。
+> 矢量：手修干净路径 **待交付**；自动描摹仅归档（几何重绘已否决）。生产暂用 JPG。
 >
 > - 决策：[DECISION.md](DECISION.md)
-> - 定稿资产：[final/](final/)（JPG + [`final/svg/`](final/svg/)）
+> - 定稿资产：[final/](final/)（**JPG 可用**；[`final/svg/`](final/svg/) 手修待交付，[`traced/`](final/svg/traced/) 为归档）
 > - 使用指南：[guidelines/](guidelines/)
 > - Token：[`tokens/tokens.css`](tokens/tokens.css) · [`tokens/tokens.json`](tokens/tokens.json)
 > - 混合规则：[directions/AE-hybrid-A20-E80/](directions/AE-hybrid-A20-E80/)
@@ -23,8 +23,7 @@
 |------|------|
 | Lockup 栅格 | [`final/logo-lockup.jpg`](final/logo-lockup.jpg) |
 | Mark 栅格 | [`final/mark.jpg`](final/mark.jpg) |
-| Lockup SVG | [`final/svg/lockup.svg`](final/svg/lockup.svg) |
-| Mark SVG | [`final/svg/mark.svg`](final/svg/mark.svg) |
+| Lockup / Mark SVG | 手修待交付 → [`final/svg/`](final/svg/)（勿用 traced 生产） |
 
 母品牌三兽 **≠** 产品吉祥物（章鱼 / 猫 / 面包兔 / 甲虫 / splat / 蜂）。详见 [guidelines/04-mascots.md](guidelines/04-mascots.md)。
 
@@ -67,4 +66,4 @@
 
 ---
 
-*English: Brand system v3 (2026-11-03) — A20/E80; wordmark + book lockup; mark animals pink rabbit / blue cat / yellow bear; SVGs are 1:1 traces of approved cute rasters. See guidelines/.*
+*English: Brand system v3 (2026-11-03) — A20/E80; wordmark + book; animals pink rabbit / blue cat / yellow bear; rasters shipped; hand-refined SVG pending. See guidelines/.*

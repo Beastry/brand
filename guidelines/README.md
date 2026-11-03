@@ -23,5 +23,5 @@
 
 - Lockup 栅格：`final/logo-lockup.jpg`
 - Mark 栅格：`final/mark.jpg`
-- 矢量：`final/svg/mark.svg` · `final/svg/lockup.svg`（及 `.min`）
+- 矢量：手修待交付（`final/svg/`）；自动描摹归档在 `final/svg/traced/`
 - CSS variables：`tokens/tokens.css`
