@@ -1,13 +1,8 @@
-# Beastry 母品牌 · Brand
+# Beastry · Brand
 
-母品牌视觉与文案规范仓库。官网：<https://beastry.app>
+母品牌视觉与文案规范。官网：<https://beastry.app>
 
-| | |
-|:--|:--|
-| **方向** | A 20% Soft Beast + E 80% Animal Family |
-| **决策** | [DECISION.md](DECISION.md) · 2026-11-01 |
-| **定稿** | 2026-11-03 · 可爱 JPG 生产资产 |
-| **范围** | **仅母品牌**；各产品视觉由各产品自行维护 |
+**范围：仅母品牌。** 各产品视觉由各产品自行维护。生产定稿为可爱 JPG / PNG。
 
 ![Beastry 品牌横幅](brand-book/exports/banner-1500x320.png)
 
@@ -16,13 +11,6 @@
 ## 品牌简述
 
 Beastry 是面向开源与产品共创的母品牌。视觉核心是「共读的寓言书」：打开的书页上，三只寓言兽探出头来——气质温暖、可玩、清楚，对社区友好。
-
-**方向配比（A20 / E80）**
-
-- **80% · Animal Family**：圆润友好、粉彩系统面、粗圆角无衬线气质；形象以「书 + 三兽」为母品牌锚点。
-- **20% · Soft Beast**：Coral `#FF6B4A` 仅作主 CTA 与小型点缀（含字标心形）；Cream `#FFF6EE` 作页面底；Charcoal `#2A2421` 作正文与结构。
-
-完整决策与混合规则见 [DECISION.md](DECISION.md) · [directions/AE-hybrid-A20-E80/](directions/AE-hybrid-A20-E80/)。
 
 ---
 
@@ -36,7 +24,7 @@ Beastry 是面向开源与产品共创的母品牌。视觉核心是「共读的
 | **Open Graph** | [`brand-book/exports/og-1200x630.png`](brand-book/exports/og-1200x630.png) | 1200×630 |
 | **横幅** | [`brand-book/exports/banner-1500x320.png`](brand-book/exports/banner-1500x320.png) | 1500×320 |
 
-**生产定稿为上述可爱 JPG / PNG。** 细节与否决路径：[final/LOGO.md](final/LOGO.md) · [guidelines/01-logo.md](guidelines/01-logo.md)。
+细节：[final/LOGO.md](final/LOGO.md) · [guidelines/01-logo.md](guidelines/01-logo.md)
 
 | Mark | Lockup |
 |:----:|:------:|
@@ -138,12 +126,10 @@ Beastry 是面向开源与产品共创的母品牌。视觉核心是「共读的
 
 ```
 brand/
-├── DECISION.md          # 方向决策（A20/E80）
-├── brand-book/          # 设计板 01–08 + NOTES + exports
-├── final/               # 生产定稿（mark / lockup JPG）
-├── guidelines/          # 使用指南 01–06
-├── tokens/              # CSS / JSON 色与字阶 token
-└── directions/          # A–E 探索存档 + AE 混合规则
+├── brand-book/   # 设计板 01–08 + NOTES + exports
+├── final/        # 生产定稿（mark / lockup JPG）
+├── guidelines/   # 使用指南
+└── tokens/       # CSS / JSON 色与字阶 token
 ```
 
 | 入口 | 说明 |
@@ -151,14 +137,7 @@ brand/
 | [guidelines/](guidelines/) | Logo · 色 · 字 · 三兽 · 语气 · 应用 |
 | [final/](final/) | 定稿资产与 [LOGO.md](final/LOGO.md) |
 | [brand-book/](brand-book/) | 设计板与导出 |
-| [DECISION.md](DECISION.md) | 选定记录 |
-| [Issue #1](https://github.com/Beastry/brand/issues/1) | 讨论线程 |
-
----
-
-## 探索存档
-
-选定前方向 A–E 保留作参考，见 [directions/](directions/)。配色对比：[tokens/proposed-tokens.md](tokens/proposed-tokens.md)。
+| [tokens/](tokens/) | 色与字阶 token |
 
 ---
 
@@ -166,7 +145,6 @@ brand/
 
 **Beastry** is the mother brand for an open, co-creative product family. The visual core is a shared fable book: an open book with three beasts—**pink rabbit / blue cat / yellow bear** (left→right; blue cat’s inner ears coral).
 
-- **Direction:** A20 Soft Beast accents + E80 Animal Family (decided 2026-11-01; see [DECISION.md](DECISION.md)).
 - **Production masters:** cute JPG — [`final/mark.jpg`](final/mark.jpg) · [`final/logo-lockup.jpg`](final/logo-lockup.jpg); app icon / OG / banner under [`brand-book/exports/`](brand-book/exports/).
 - **Scope:** mother brand only. Product-level mascots are owned by each product, not this repo.
 - **Boards:** [`brand-book/`](brand-book/) 01–08 · **Guidelines:** [`guidelines/`](guidelines/) · **Tokens:** [`tokens/`](tokens/).
