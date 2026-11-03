@@ -21,40 +21,36 @@
 - 奶油色 Cream `#FFF6EE`：页面底色，带来温暖感
 - 炭黑 Charcoal `#2A2421`：文字与字标
 
-## 当前状态
+## 当前状态（v3 · 2026-11-03）
 
-- 方向已选定；**v1 栅格资产**已在 [`final/`](final/)，**精确 SVG logo 仍在探索中**
-- 探索期形象板（board.jpg）仍为规划参考；`final/` 为官网可用的第一版栅格
-- 混合规则见 [directions/AE-hybrid-A20-E80/NOTES.md](directions/AE-hybrid-A20-E80/NOTES.md)
-- 选定 token 草案见 [tokens/proposed-tokens.md](tokens/proposed-tokens.md#选定-token-草案)
+- 方向已选定；**v3 定稿**在 [`final/`](final/)：可爱风格栅格 + **一比一描摹 SVG**
+- 使用指南：[`guidelines/`](guidelines/)
+- 机器可读 token：[`tokens/tokens.css`](tokens/tokens.css) · [`tokens/tokens.json`](tokens/tokens.json)（日期 2026-11-03）
+- 混合规则：[directions/AE-hybrid-A20-E80/NOTES.md](directions/AE-hybrid-A20-E80/NOTES.md)
+
+## Logo v2 → v3
+
+Neil 选定 **字标 + 书**（A20/E80）：
+
+| 项 | 内容 |
+|----|------|
+| Lockup | `final/logo-lockup.jpg` + `final/svg/lockup.svg` |
+| Mark | `final/mark.jpg` + `final/svg/mark.svg` |
+| 动物 L→R | **粉兔 / 蓝猫 / 黄熊**（母品牌寓言兽，**≠** 产品吉祥物） |
+| 矢量原则 | 必须与可爱批准栅格 **一比一复刻**；几何重绘已否决 |
+
+细节与否决路径：[`final/LOGO.md`](final/LOGO.md) · [`final/svg/README.md`](final/svg/README.md)
+
+## 产品吉祥物（与 logo 三兽分离）
+
+Octoshot 章鱼 · MijiaBar 猫 · mbread 面包兔 · AgentKey 甲虫 · Splatty splat · LetterBee 蜂 — 见 [guidelines/04-mascots.md](guidelines/04-mascots.md)。
 
 ## 下一步
 
-1. 绘制矢量母品牌字标与各产品动物 SVG
-2. 与各产品确认动物形象与名称对应关系
-3. 打磨并定稿 design tokens（色值、字体、圆角、阴影）
-4. 产出 app icon 规范与官网（beastry.app）落地样式
-
-
-## 定稿推进（2026-11-01）
-
-Neil 确认按 A20/E80 推进视觉落地。v1 **栅格**资产已放入 [`final/`](final/)：
-
-- `logo-lockup.jpg` · `mark.jpg` · `mascots-row.jpg` · `site-hero-mock.jpg`
-- 机器可读 token：[`tokens/tokens.css`](tokens/tokens.css) · [`tokens/tokens.json`](tokens/tokens.json)
-
-说明见 [`final/README.md`](final/README.md)。SVG 字标与各产品动物矢量仍待后续。
+1. 各产品确认并矢量自己的吉祥物（与母品牌三兽分开）
+2. 官网全面改用 SVG mark（体积与清晰度平衡）
+3. 导出专用小尺寸 favicon / app icon 如有需要
 
 ---
 
-*English: Decision on 2026-11-01 by Neil (neardws): mix 80% E Animal Family (primary) + 20% A Soft Beast (coral accent). Exact SVG logos still in exploration; boards are planning references. Discussion: issue #1.*
-
-## Logo v2 定稿（2026-11-03）
-
-Neil 选定 **字标 + 书**（A20/E80 风格）：
-
-- Lockup：`final/logo-lockup.jpg` — `beastry` 字标 + 圆形书本 mark
-- Mark：`final/mark.jpg` — 打开的书 + 三只寓言兽
-- 决策细节与未采用路径：[`final/LOGO.md`](final/LOGO.md)
-- SVG 仍待后续；官网 beastry.app 已切换至上述栅格
-
+*English: A20/E80 decided 2026-11-01. Brand system v3 (2026-11-03): cute wordmark+book lockup; animals pink rabbit / blue cat / yellow bear; 1:1 traced SVGs; guidelines shipped.*

@@ -1,30 +1,38 @@
-# Beastry 品牌形象探索
+# Beastry 品牌
 
-> ## ✅ 已选定：A 20% + E 80%
+> ## ✅ 品牌系统 v3（2026-11-03）
 >
-> 2026-11-01 Neil（@neardws）选定 **动物家族为主（E 80%）+ 柔和野兽点缀（A 20%）**。
+> 方向：**A 20% + E 80%**（柔和野兽点缀 + 动物家族为主）。  
+> Logo：**字标 + 书**；mark 动物左→右 **粉兔 / 蓝猫 / 黄熊**。  
+> 矢量：对可爱定稿栅格的 **一比一 VTracer 描摹**（几何重绘已否决）。
 >
-> - 决策记录：[DECISION.md](DECISION.md)
-> - 混合方案与使用规则：[directions/AE-hybrid-A20-E80/](directions/AE-hybrid-A20-E80/)
-> - **v1 栅格定稿**：[final/](final/)（lockup / mark / mascots / hero mock）
-> - Token：[`tokens/tokens.css`](tokens/tokens.css) · [`tokens/tokens.json`](tokens/tokens.json)（草案见 [proposed-tokens.md](tokens/proposed-tokens.md#选定-token-草案)）
+> - 决策：[DECISION.md](DECISION.md)
+> - 定稿资产：[final/](final/)（JPG + [`final/svg/`](final/svg/)）
+> - 使用指南：[guidelines/](guidelines/)
+> - Token：[`tokens/tokens.css`](tokens/tokens.css) · [`tokens/tokens.json`](tokens/tokens.json)
+> - 混合规则：[directions/AE-hybrid-A20-E80/](directions/AE-hybrid-A20-E80/)
 > - 讨论：[Issue #1](https://github.com/Beastry/brand/issues/1)
->
-> SVG logo 仍在打磨；`final/` 为 v1 栅格资产，可供官网使用。
 
 ![A20 E80 混合形象板](directions/AE-hybrid-A20-E80/board.jpg)
+
+官网：<https://beastry.app>
+
+## 母品牌 Logo（速览）
+
+| 资产 | 路径 |
+|------|------|
+| Lockup 栅格 | [`final/logo-lockup.jpg`](final/logo-lockup.jpg) |
+| Mark 栅格 | [`final/mark.jpg`](final/mark.jpg) |
+| Lockup SVG | [`final/svg/lockup.svg`](final/svg/lockup.svg) |
+| Mark SVG | [`final/svg/mark.svg`](final/svg/mark.svg) |
+
+母品牌三兽 **≠** 产品吉祥物（章鱼 / 猫 / 面包兔 / 甲虫 / splat / 蜂）。详见 [guidelines/04-mascots.md](guidelines/04-mascots.md)。
 
 ---
 
 ## 探索存档（A–E）
 
-> 以下为选定前的五个探索方向，保留作参考。
-
-> 这些是探索稿，不是最终品牌。
-
-Beastry 官网：<https://beastry.app>
-
-### 五个方向一览
+> 选定前的五个探索方向，保留作参考。
 
 | ID | 方向 | 气质 | 主色 | 形象板 |
 |----|------|------|------|--------|
@@ -57,16 +65,6 @@ Beastry 官网：<https://beastry.app>
 - [Stow](https://github.com/skyswordw/stow)（暂在 `skyswordw/stow`，尚未迁入组织）
 - 官网：[beastry.app](https://github.com/Beastry/beastry.app)
 
-### 怎么给意见（已选定，保留存档）
-
-请 @neardws 和 @skyswordw 看一下：
-
-1. **挑一个最喜欢的方向**（A–E），或者
-2. **混搭**——例如「D 的系统感 + E 的产品吉祥物」、「A 的配色 + C 的印章 logo」；
-3. 对具体元素（logo、配色、字体、语气）有意见，直接开 Issue 或在对应方向的 `NOTES.md` 上评论 / 提 PR。
-
-选定后下一步：细化 logo（矢量）、确定 design tokens、出 app icon 与官网落地规范。
-
 ---
 
-*English: Selected 2026-11-01 — 80% E Animal Family + 20% A Soft Beast (see DECISION.md). The five A–E exploration boards are kept below as an archive.*
+*English: Brand system v3 (2026-11-03) — A20/E80; wordmark + book lockup; mark animals pink rabbit / blue cat / yellow bear; SVGs are 1:1 traces of approved cute rasters. See guidelines/.*
