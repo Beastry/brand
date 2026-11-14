@@ -17,3 +17,5 @@
 | E | Animal Family 动物家族 | 母品牌 + 每个产品一只小动物 | [board](E-animal-family/board.jpg) | [NOTES](E-animal-family/NOTES.md) |
 
 > 形象板里的文案（slogan、示例界面文字、年份等）均为占位，不代表真实产品信息。
+
+方向形象板与这里的说明，在 Beastry 享有版权的范围内，同属 GPL-3.0-only。见 [`../LICENSES/GPL-3.0-only.md`](../LICENSES/GPL-3.0-only.md)。选定结果与探索记录不因这份许可而改写。

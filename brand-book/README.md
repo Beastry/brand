@@ -6,6 +6,8 @@
 
 完整说明见 [NOTES.md](NOTES.md)。定稿资产见 [`../final/`](../final/)。使用指南见 [`../guidelines/`](../guidelines/)。
 
+在 Beastry 享有版权的范围内，本目录的板面、导出与说明以 GPL-3.0-only 提供。见 [`../LICENSE`](../LICENSE) 与 [`../LICENSES/GPL-3.0-only.md`](../LICENSES/GPL-3.0-only.md)。版权许可不授予商标权，也不授权冒充官方母品牌标识。
+
 ## 板面
 
 | # | 文件 | 内容 |
