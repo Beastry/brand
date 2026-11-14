@@ -110,6 +110,8 @@ Beastry 是面向开源与产品共创的母品牌。视觉核心是「共读的
 - 让珊瑚主导版面（大面积底、整页 header）  
 - 将本仓库规范扩展为各产品吉祥物映射（产品侧自行维护）  
 
+这些「可以 / 不要」是呈现官方母品牌时的用法。版权许可与商标边界见下文「许可」。
+
 板面示意：[brand-book/05-do-dont.png](brand-book/05-do-dont.png) · 全文：[guidelines/](guidelines/)
 
 ---
@@ -129,7 +131,9 @@ brand/
 ├── brand-book/   # 设计板 01–08 + NOTES + exports
 ├── final/        # 生产定稿（mark / lockup JPG）
 ├── guidelines/   # 使用指南
-└── tokens/       # CSS / JSON 色与字阶 token
+├── tokens/       # CSS / JSON 色与字阶 token
+├── LICENSE       # 未改动的 GNU GPL v3 文本
+└── LICENSES/     # GPL-3.0-only 版本声明
 ```
 
 | 入口 | 说明 |
@@ -138,6 +142,20 @@ brand/
 | [final/](final/) | 定稿资产与 [LOGO.md](final/LOGO.md) |
 | [brand-book/](brand-book/) | 设计板与导出 |
 | [tokens/](tokens/) | 色与字阶 token |
+| [LICENSE](LICENSE) | 未改动的 GNU GPL 第 3 版全文 |
+| [LICENSES/GPL-3.0-only.md](LICENSES/GPL-3.0-only.md) | 仅第 3 版的授权范围 |
+
+---
+
+## 许可
+
+在 Beastry 享有版权的范围内，本仓库的原创可版权材料以 **GPL-3.0-only** 提供：仅 GNU 通用公共许可证第 3 版。范围包括文档、设计 token，以及图稿（可爱 JPG 定稿、设计板与导出、方向形象板，以及 `final/svg/` 中的文件）。完整、未改动的许可证文本在 [LICENSE](LICENSE)。版本与范围写在 [LICENSES/GPL-3.0-only.md](LICENSES/GPL-3.0-only.md)。
+
+该版权许可不授予「Beastry」名称、字标或母品牌标志的商标权，也不授权冒充 Beastry，或把修改后的版本说成官方母品牌标识。上文「可以 / 不要」是官方身份的呈现规则，不是附加的版权限制。
+
+本仓库原先没有许可证文件，历史里也没有 MIT 或其他许可文本。本变更不补写一份并不存在的 MIT 许可。仓库没有写明归属的部分，仍按 [许可声明](LICENSES/GPL-3.0-only.md) 标为不确定，不在这里当成已经确定。
+
+树内没有单独的第三方字体或媒体许可文件；已有的工具注明保持原样，包括 `final/svg/traced/` 中的 `Generator: visioncortex VTracer 0.6.12`。
 
 ---
 
@@ -148,5 +166,6 @@ brand/
 - **Production masters:** cute JPG — [`final/mark.jpg`](final/mark.jpg) · [`final/logo-lockup.jpg`](final/logo-lockup.jpg); app icon / OG / banner under [`brand-book/exports/`](brand-book/exports/).
 - **Scope:** mother brand only. Product-level mascots are owned by each product, not this repo.
 - **Boards:** [`brand-book/`](brand-book/) 01–08 · **Guidelines:** [`guidelines/`](guidelines/) · **Tokens:** [`tokens/`](tokens/).
+- **License:** GPL-3.0-only, to the extent Beastry holds copyright in the original documents, design tokens, and artwork. Full unmodified text: [`LICENSE`](LICENSE). Grant: [`LICENSES/GPL-3.0-only.md`](LICENSES/GPL-3.0-only.md). The copyright license does not grant trademark rights and does not authorize impersonation. This repository had no prior MIT grant; none is added. Ownership the tree does not already state stays flagged in the grant.
 
 Site: <https://beastry.app>

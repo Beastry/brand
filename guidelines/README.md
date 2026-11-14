@@ -16,6 +16,12 @@
 | [05-voice.md](05-voice.md) | 语气与文案气质 |
 | [06-applications.md](06-applications.md) | 官网、图标、社交等落地 |
 
+## 许可
+
+在 Beastry 享有版权的范围内，这些指南与其所描述的图稿、token 以 **GPL-3.0-only** 提供。全文见 [`../LICENSE`](../LICENSE)，版本声明见 [`../LICENSES/GPL-3.0-only.md`](../LICENSES/GPL-3.0-only.md)。
+
+各章里的「可以 / 不要」是呈现官方母品牌时的用法，不是附加的版权限制。版权许可不授予商标权，也不授权冒充 Beastry 或把改过的版本说成官方母品牌标识。
+
 ## 一句话
 
 **动物家族为主，柔和野兽点缀。** Logo 是「共读的寓言书」：打开的书 + 粉兔 / 蓝猫 / 黄熊；珊瑚只作小心与 CTA。
